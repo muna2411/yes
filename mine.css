@@ -331,7 +331,7 @@ input[type="email"]{
     background-color: #E55473;
     padding: 15px 30px 15px 30px;
     color: white;
-    margin : 15px 500px 100px 0px;
+    margin : 30px 500px 100px 0px;
    
     
 }
@@ -373,4 +373,6 @@ font-weight: 400;
         font-size: 25px;
         font-weight: 900;
     } 
+nav li {
+    list-style: none;
 }
